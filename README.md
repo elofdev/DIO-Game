@@ -1,4 +1,4 @@
-# DIO-Game
+# DIO-Game Awards
 Dio Fullstack Labs
 Aula 1 -  Criação do Backend - API
 Requisitos Utilizados:
